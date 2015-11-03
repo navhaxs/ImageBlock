@@ -1,0 +1,67 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +SMQ86yaFB+E+Q5GiNdShA==
+SHA1-Digest: iElgOkvGafEGFSYquj9D+k5ZuA8=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3aY36SltJIp3k72pTUI+EQ==
+SHA1-Digest: oDByCnfBoBBKpeOgxzqsP116cmQ=
+
+Name: files
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IF2QgJQ1UlaCuI7gOU/jyg==
+SHA1-Digest: Qh2PNAgOsKNhBYKwLh3ZL2Bpxfg=
+
+Name: content/firefoxOverlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sMSdnUDy3QFWFYl2QDdvMw==
+SHA1-Digest: JddeJOsLgXwErITqN4spL6puYi4=
+
+Name: content/imageblock.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mzxfbbrNc/TZWe6yDDZ+FA==
+SHA1-Digest: Jkx+pfLODmibzwntvGzE4Gz6Lbw=
+
+Name: content/overlay.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tZRCr0fINXF9fsgrZRD/qg==
+SHA1-Digest: z/N9o9vO0MiPtYoCZXzN7TKHVdE=
+
+Name: locale/en-US/imageblock.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: agN7XrLsp/7Z4nXSgMYc8A==
+SHA1-Digest: Lpd/koTGP5hxFt0euGP/VpzoaTs=
+
+Name: locale/en-US/imageblock.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QGlzIWIKVnedJogyXMqMrg==
+SHA1-Digest: PQLb2NDdFOLC59DLZMnyg2AGpvg=
+
+Name: locale/fr-FR/imageblock.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: agN7XrLsp/7Z4nXSgMYc8A==
+SHA1-Digest: Lpd/koTGP5hxFt0euGP/VpzoaTs=
+
+Name: locale/fr-FR/imageblock.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A8qEhcK11VL5tbQX7wOn4Q==
+SHA1-Digest: TDkidn3sA1TI25Haa+uyz+UbUDg=
+
+Name: skin/overlay.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: li93XosTLwe7nH4oTkZcmQ==
+SHA1-Digest: pbgc/x+Jz1kB33fMowEJomRMDf4=
+
+Name: skin/Thumbs.db
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wVAZtLTXuyEDDzs77BZptQ==
+SHA1-Digest: ByA1vQvgH0dIhqPSZwAETf3mxZk=
+
+Name: skin/toolbar-button.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: d/XH/Szl7pNUUz4oLfRGvA==
+SHA1-Digest: stjLQQVCtcBPKFsgJV07pg9uKYQ=
+

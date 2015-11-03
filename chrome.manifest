@@ -1,0 +1,6 @@
+content	imageblock	content/
+locale	imageblock	en-US	locale/en-US/
+locale	imageblock	fr-FR	locale/fr-FR/
+skin	imageblock	classic/1.0	skin/
+overlay	chrome://browser/content/browser.xul	chrome://imageblock/content/firefoxOverlay.xul
+style	chrome://global/content/customizeToolbar.xul	chrome://imageblock/skin/overlay.css

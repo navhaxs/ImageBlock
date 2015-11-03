@@ -1,0 +1,8 @@
+content/firefoxOverlay.xul
+content/imageblock.png
+content/overlay.js
+locale/en-US/imageblock.dtd
+locale/fr-FR/imageblock.dtd
+
+install.rdf
+chrome.manifest
